@@ -8,8 +8,8 @@ export default function Home() {
           <h1 className={page.title}>FITNESS DAILY</h1>
 
           <p className={page.content}>
-            If you want to work out in the gym and gain muscle, you`&apos`ve
-            come to the correct place. The owners of this blog are fitness
+            If you want to work out in the gym and gain muscle, you&apos;ve come
+            to the correct place. The owners of this blog are fitness
             enthusiasts who have been training for a long time and wish to share
             with you their knowledge and successes. You will learn how to
             maintain a regular schedule, eat healthily, and exercise efficiently

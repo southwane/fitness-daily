@@ -3,9 +3,12 @@
   flex-direction: column;
   justify-content: center;
   align-content: center;
-  padding: 6rem;
 }
 
+.innerContainer {
+  width: 725px;
+  margin: auto;
+}
 .title {
   font-size: 3.3rem;
   color: red;

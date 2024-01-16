@@ -1,8 +1,10 @@
+import pws from "./pwg.module.css";
+
 export default function Page() {
   return (
-    <main>
-      <h1>Padded Gloves for Weightlifting</h1>
-      <section>
+    <main className={pws.container}>
+      <h1 className={pws.title}>Padded Gloves for Weightlifting</h1>
+      <section className={pws.innerContainer}>
         <p>
           Weightlifting gloves are an essential accessory for anyone who is
           serious about weightlifting. They give a scope of advantages,
