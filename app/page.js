@@ -18,8 +18,6 @@ export default function Home() {
             through the process of achieving your fitness objectives and
             enhancing your mental and physical well-being.
           </p>
-
-          <h5 className={page.h5}>Developled By: Southwane</h5>
         </div>
       </section>
     </main>
