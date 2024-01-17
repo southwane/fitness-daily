@@ -40,7 +40,6 @@ export default function Page() {
           </li>
         </p>
       </section>
-      <h5>Developled By: Southwane</h5>
     </main>
   );
 }
