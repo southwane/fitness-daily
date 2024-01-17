@@ -20,3 +20,10 @@
 .paragraph {
   text-align: justify;
 }
+
+.subheading {
+  color: blue;
+  margin-top: 10px;
+  font-style: italic;
+  font-weight: 900;
+}

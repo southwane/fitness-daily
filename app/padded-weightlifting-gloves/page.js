@@ -24,7 +24,9 @@ export default function Page() {
           giving both security and execution benefits.
         </p>
 
-        <h2>Benefits of padded gloves for weightlifting</h2>
+        <h2 className={pws.subheading}>
+          Benefits of padded gloves for weightlifting
+        </h2>
         <p>
           <li>
             Better grip: Padded gloves provide a better grip on the weights and
