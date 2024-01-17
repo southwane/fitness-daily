@@ -7,3 +7,12 @@
 .innerContainer {
   width: 600px;
 }
+
+.title {
+  color: red;
+  font-size: 7rem;
+}
+
+.paragraph {
+  text-align: justify;
+}

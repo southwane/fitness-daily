@@ -6,7 +6,7 @@ const about = () => {
     <div className={page.container}>
       <section className={page.innerContainer}>
         <h1 className={page.title}>FD</h1>
-        <p className={page.content}>
+        <p className={page.paragraph}>
           About Fitness Daily
           <br /> <br /> Fitness Daily is a blog that helps you achieve your
           fitness goals and live a healthy lifestyle. Whether you want to

@@ -5,7 +5,7 @@ export default function Page() {
     <main className={pws.container}>
       <h1 className={pws.title}>Padded Gloves for Weightlifting</h1>
       <section className={pws.innerContainer}>
-        <p>
+        <p className={pws.paragraph}>
           Weightlifting gloves are an essential accessory for anyone who is
           serious about weightlifting. They give a scope of advantages,
           including further developed grasp and foothold, security against
@@ -23,8 +23,7 @@ export default function Page() {
           turned into a fundamental piece of any weightlifter&lsquo:s toolbox,
           giving both security and execution benefits.
         </p>
-      </section>
-      <section>
+
         <h2>Benefits of padded gloves for weightlifting</h2>
         <p>
           <li>

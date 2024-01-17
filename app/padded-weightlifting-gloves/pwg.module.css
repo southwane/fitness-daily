@@ -8,4 +8,15 @@
 
 .title {
   color: red;
+  text-align: center;
+  font-size: 2.8rem;
+}
+
+.innerContainer {
+  width: 730px;
+  margin: auto;
+}
+
+.paragraph {
+  text-align: justify;
 }
