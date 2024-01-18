@@ -6,7 +6,7 @@
 }
 
 .innerContainer {
-  width: 725px;
+  max-width: 725px;
   margin: auto;
 }
 .title {
@@ -14,8 +14,18 @@
   color: red;
 }
 
+.content {
+  text-align: justify;
+}
+
 .h5 {
-  margin-top: 10px;
+  padding-top: 40px;
   color: red;
   text-align: center;
+}
+@media screen and (max-width: 600px) {
+  .title {
+    color: rgb(13, 13, 13);
+    font-size: 3.8rem;
+  }
 }

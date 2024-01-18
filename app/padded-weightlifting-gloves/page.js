@@ -27,7 +27,7 @@ export default function Page() {
         <h2 className={pws.subheading}>
           Benefits of padded gloves for weightlifting
         </h2>
-        <p>
+        <p className={pws.paragraph}>
           <h3 className={pws.subheading3}> Better grip</h3>
           Padded gloves provide a better grip on the weights and bars, which
           helps to prevent slippage and allows you to lift heavier weights with
@@ -43,7 +43,7 @@ export default function Page() {
           Factors to consider when choosing padded gloves for weightlifting
         </h2>
         <h3 className={pws.subheading3}>Material and durability</h3>
-        <p>
+        <p className={pws.paragraph}>
           The material of the gloves is an important factor to consider when
           choosing padded gloves for weightliftig. Look for gloves made from
           high quality materials that are durable and long lasting. Some common

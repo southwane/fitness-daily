@@ -13,7 +13,7 @@
 }
 
 .innerContainer {
-  width: 750px;
+  max-width: 750px;
   margin: auto;
 }
 
@@ -30,4 +30,15 @@
 
 .subheading3 {
   margin-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .title {
+    color: rgb(13, 13, 13);
+    font-size: 3.2rem;
+  }
+
+  .paragraph {
+    text-align: justify;
+  }
 }
