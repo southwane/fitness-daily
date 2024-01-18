@@ -13,7 +13,7 @@
 }
 
 .innerContainer {
-  width: 730px;
+  width: 750px;
   margin: auto;
 }
 
@@ -26,4 +26,8 @@
   margin-top: 10px;
   font-style: italic;
   font-weight: 900;
+}
+
+.subheading3 {
+  margin-top: 20px;
 }

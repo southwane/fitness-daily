@@ -23,7 +23,7 @@ export default function Page() {
           turned into a fundamental piece of any weightlifter&lsquo:s toolbox,
           giving both security and execution benefits.
         </p>
-
+        {/*Topic 1 */}
         <h2 className={pws.subheading}>
           Benefits of padded gloves for weightlifting
         </h2>
@@ -39,6 +39,39 @@ export default function Page() {
             which in turn increases the amount of traction you have. This helps
             to prevent your hands from slipping and sliding during your workout.
           </li>
+        </p>
+        {/* topic2 */}
+        <h2 className={pws.subheading}>
+          Factors to consider when choosing padded gloves for weightlifting
+        </h2>
+        <h3 className={pws.subheading3}>Material and durability</h3>
+        <p>
+          The material of the gloves is an important factor to consider when
+          choosing padded gloves for weightliftig. Look for gloves made from
+          high quality materials that are durable and long lasting. Some common
+          material used in weighlifting gloves include leather, neoprene, and
+          spandex. Leather gloves are known for their durability and strength,
+          while neoprene gloves are know for their flexibility and comfort.
+          Spandex gloves are lightweight and breathable, making them ideal for
+          workouts that involve a lot of movement.
+        </p>
+        <h3 className={pws.subheading3}>Size and fit</h3>
+        <p>
+          The size and fit of the gloves are also important factors to consider.
+          Gloves that are too small can be uncomfortable and restrict your
+          movement, while gloves that are too large can slip and slide during
+          workout. Look for gloves that fit snugly but not too tightly, and that
+          will allow you to move your fingers and hands freely.
+        </p>
+        <h3 className={pws.subheading3}>Padding and ventilation</h3>
+        <p>
+          The padding and ventilation of the gloves are also important factors
+          to consider. Look for gloves that have adequate padding to protect
+          your hands and wrists from injury, but not so much padding that they
+          become bulky and cumbersome. Ventilation is also important to prevent
+          your hands from getting to sweaty and slippery during your workout.
+          Some gloves have mesh or perforated panels to increase ventilation and
+          keep your hands cool and dry.
         </p>
       </section>
     </main>
