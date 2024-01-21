@@ -1,0 +1,33 @@
+.navbar {
+  color: red;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  font-size: 3rem;
+}
+.ul {
+  list-style: none;
+}
+
+.li {
+  display: inline-block;
+  margin: 10px;
+}
+
+.a {
+  text-decoration: none;
+}
+
+.a:hover {
+  color: black;
+}
+
+@media screen and (max-width: 600px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+  }
+}

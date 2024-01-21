@@ -12,6 +12,7 @@
 .title {
   font-size: 3.3rem;
   color: red;
+  text-align: center;
 }
 
 .content {
@@ -26,6 +27,6 @@
 @media screen and (max-width: 600px) {
   .title {
     color: rgb(13, 13, 13);
-    font-size: 3.8rem;
+    font-size: 3.4rem;
   }
 }

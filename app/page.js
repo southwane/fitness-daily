@@ -8,15 +8,14 @@ export default function Home() {
           <h1 className={page.title}>FITNESS DAILY</h1>
 
           <p className={page.content}>
-            If you want to work out in the gym and gain muscle, you&apos;ve come
-            to the correct place. The owners of this blog are fitness
-            enthusiasts who have been training for a long time and wish to share
-            with you their knowledge and successes. You will learn how to
-            maintain a regular schedule, eat healthily, and exercise efficiently
-            here. You will discover something interesting and helpful here
-            whether you are a novice or an expert user. Join us as we walk you
-            through the process of achieving your fitness objectives and
-            enhancing your mental and physical well-being.
+            If you want to gain muscle and live a healther life, you&apos;ve
+            come to the right place. You will learn how to maintain a consistent
+            schedule for a healthier you, by eating foods rich in nutrients,
+            along with exercising to build muscle and burn those unwanted
+            calories. You will discover insightful and helpful tips whether you
+            are a novice or an expert. Join us as we walk you through the
+            process of achieving your fitness objectives and enhancing your
+            mental and physical temple.
           </p>
         </div>
       </section>
