@@ -75,10 +75,12 @@ export default function Page() {
         <ol>
           <li>
             <h3 className={pws.subheading3}>Trideer Weightlifting Gloves</h3>
-            Made from high-quality microfiber and spandex, these gloves are
-            durable, flexible, and breathable.They feature a double-layered
-            padded palm for extra protection and a comfortable fit. Available in
-            a range of sizes and colors.
+            <li>
+              Made from high-quality microfiber and spandex, these gloves are
+              durable, flexible, and breathable.They feature a double-layered
+              padded palm for extra protection and a comfortable fit. Available
+              in a range of sizes and colors.
+            </li>
           </li>
           <li>
             <h3 className={pws.subheading3}>
@@ -99,6 +101,17 @@ export default function Page() {
             and colors.
           </li>
         </ol>
+        <p className={pws.conclusion}>
+          In summary, padded gloves for weighlifting are a worthwhile investment
+          that provides a range of benefits, including improved grip and
+          traction, protection against calluses and blisters, including enhanced
+          comfort and support. When choosing padded gloves for weighlifting,
+          it's important to consider factors such as material, durabilty, size
+          and fit, and padding and ventilation. Whether you're a seasoned
+          weightlifter or just starting out, padded gloves are an essential part
+          of your workout gear.
+        </p>
+        <span className={pws.conclusionI}></span>
       </section>
     </main>
   );
