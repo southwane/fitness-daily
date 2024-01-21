@@ -106,10 +106,10 @@ export default function Page() {
           that provides a range of benefits, including improved grip and
           traction, protection against calluses and blisters, including enhanced
           comfort and support. When choosing padded gloves for weighlifting,
-          it's important to consider factors such as material, durabilty, size
-          and fit, and padding and ventilation. Whether you're a seasoned
-          weightlifter or just starting out, padded gloves are an essential part
-          of your workout gear.
+          it&apos;s important to consider factors such as material, durabilty,
+          size and fit, and padding and ventilation. Whether you &apos;re a
+          seasoned weightlifter or just starting out, padded gloves are an
+          essential part of your workout gear.
         </p>
         <span className={pws.conclusionI}></span>
       </section>
