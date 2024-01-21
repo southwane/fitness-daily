@@ -32,7 +32,11 @@
 }
 @media screen and (max-width: 600px) {
   .title {
-    color: rgb(13, 13, 13);
+    color: red;
     font-size: 3.4rem;
+  }
+  .tagline {
+    color: blue;
+    font-size: 1.5rem;
   }
 }
