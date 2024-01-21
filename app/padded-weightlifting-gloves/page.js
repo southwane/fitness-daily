@@ -71,6 +71,34 @@ export default function Page() {
           Some gloves have mesh or perforated panels to increase ventilation and
           keep your hands cool and dry.
         </p>
+        <h2 className={pws.subheading}>Top padded gloves for weightlifting</h2>
+        <ol>
+          <li>
+            <h3 className={pws.subheading3}>Trideer Weightlifting Gloves</h3>
+            Made from high-quality microfiber and spandex, these gloves are
+            durable, flexible, and breathable.They feature a double-layered
+            padded palm for extra protection and a comfortable fit. Available in
+            a range of sizes and colors.
+          </li>
+          <li>
+            <h3 className={pws.subheading3}>
+              RIMSports Premium Weightlifting Gloves
+            </h3>
+            Made from genuine leather and spandex, these gloves are durable,
+            flexible, and comfortable. They feature a padded palm and fingers
+            for extra protection and a secure grip. Available in a range of
+            sizes and colors.
+          </li>
+          <li>
+            <h3 className={pws.subheading3}>
+              Fit Active Sports Fit Active New Ventilated Weightlifting Gloves
+            </h3>
+            Made from neoprene and spandex, these, gloves, are lightweight,
+            flexible, and breathable. They feature a padded palm and fingers for
+            extra protection and a secure grip. Available in a range of sizes
+            and colors.
+          </li>
+        </ol>
       </section>
     </main>
   );
