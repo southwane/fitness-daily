@@ -9,7 +9,7 @@ export default function Home() {
           <h2 className={page.tagline}>Creating fitness success stories</h2>
 
           <p className={page.content}>
-            If you want to gain muscle and live a healther life, you&apos;ve
+            If you want to gain muscle and live a healthier life, you&apos;ve
             come to the right place. You will learn how to maintain a consistent
             schedule for a healthier you, by eating foods rich in nutrients,
             along with exercising to build muscle and burn those unwanted
