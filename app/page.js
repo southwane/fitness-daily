@@ -6,6 +6,7 @@ export default function Home() {
       <section className={page.container}>
         <div className={page.innerContainer}>
           <h1 className={page.title}>FITNESS DAILY</h1>
+          <h2 className={page.tagline}>Creating fitness success stories</h2>
 
           <p className={page.content}>
             If you want to gain muscle and live a healther life, you&apos;ve

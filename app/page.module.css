@@ -15,6 +15,12 @@
   text-align: center;
 }
 
+.tagline {
+  text-align: center;
+  color: blue;
+  margin-bottom: 20px;
+}
+
 .content {
   text-align: justify;
 }
