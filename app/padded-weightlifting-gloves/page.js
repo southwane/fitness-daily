@@ -6,22 +6,23 @@ export default function Page() {
       <h1 className={pws.title}>Padded Gloves for Weightlifting</h1>
       <section className={pws.innerContainer}>
         <p className={pws.paragraphTop}>
-          Weightlifting gloves are an essential accessory for anyone who is
-          serious about weightlifting. They give a scope of advantages,
-          including further developed grasp and foothold, security against
-          calluses and rankles, and improved solace and backing. Notwithstanding
-          these advantages, weightlifting gloves likewise help to work on your
-          general execution by permitting you to lift heavier loads and perform
-          more reps. In any case, before the approach of weightlifting gloves,
-          weightlifters needed to depend on their uncovered hands to lift loads.
-          This frequently brought about difficult rankles, calluses, and
-          different wounds that could upset their exhibition and even lead to
-          long haul harm. The principal weightlifting gloves were presented in
-          the mid 1900s as a method for shielding the hands of weightlifters
-          from the unpleasant and grating surfaces of the loads and bars they
-          were lifting. From that point forward, weightlifting gloves have
-          turned into a fundamental piece of any weightlifter&lsquo;s toolbox,
-          giving both security and execution benefits.
+          Padded weightlifting fitness gloves are an essential accessory for
+          anyone who is serious about weightlifting. They give a scope of
+          advantages, including security against calluses and rankles, and
+          improved solace and backing, all within a comfortable grip.
+          Notwithstanding these advantages, weightlifting gloves likewise help
+          to work on your general execution by permitting you to lift heavier
+          loads and perform more reps. In any case, before the approach of
+          weightlifting gloves, weightlifters needed to depend on their
+          uncovered hands to lift loads. This frequently brought about difficult
+          rankles, calluses, and different wounds that could upset their
+          exhibition and even lead to long haul harm. The principal
+          weightlifting gloves were presented in the mid 1900s as a method for
+          shielding the hands of weightlifters from the unpleasant and grating
+          surfaces of the loads and bars they were lifting. From that point
+          forward, weightlifting gloves have turned into a fundamental piece of
+          any weightlifter&lsquo;s toolbox, giving both security and execution
+          benefits.
         </p>
 
         {/*Topic 1 */}
