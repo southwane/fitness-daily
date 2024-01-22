@@ -21,6 +21,12 @@
   text-align: justify;
 }
 
+.paragraphTop {
+  border-bottom: 2px solid red;
+  text-align: justify;
+  padding: 10px 0;
+}
+
 .subheading {
   color: blue;
   margin-top: 10px;

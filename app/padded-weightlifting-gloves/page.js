@@ -5,7 +5,7 @@ export default function Page() {
     <main className={pws.container}>
       <h1 className={pws.title}>Padded Gloves for Weightlifting</h1>
       <section className={pws.innerContainer}>
-        <p className={pws.paragraph}>
+        <p className={pws.paragraphTop}>
           Weightlifting gloves are an essential accessory for anyone who is
           serious about weightlifting. They give a scope of advantages,
           including further developed grasp and foothold, security against
@@ -20,9 +20,10 @@ export default function Page() {
           the mid 1900s as a method for shielding the hands of weightlifters
           from the unpleasant and grating surfaces of the loads and bars they
           were lifting. From that point forward, weightlifting gloves have
-          turned into a fundamental piece of any weightlifter&lsquo:s toolbox,
+          turned into a fundamental piece of any weightlifter&lsquo;s toolbox,
           giving both security and execution benefits.
         </p>
+
         {/*Topic 1 */}
         <h2 className={pws.subheading}>
           Benefits of padded gloves for weightlifting
