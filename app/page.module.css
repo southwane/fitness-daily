@@ -9,18 +9,29 @@
   max-width: 725px;
   margin: auto;
 }
+
+.subContainer {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
 .title {
-  font-size: 3.3rem;
-  color: red;
   text-align: center;
+  font-size: 4.4rem;
+  color: green;
 }
 
 .tagline {
   text-align: center;
+
   color: blue;
   margin-bottom: 20px;
 }
 
+.lsvg {
+  margin: 0 20px;
+}
 .content {
   text-align: justify;
 }
@@ -30,6 +41,7 @@
   color: red;
   text-align: center;
 }
+
 @media screen and (max-width: 600px) {
   .title {
     color: red;
@@ -37,6 +49,9 @@
   }
   .tagline {
     color: blue;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+  }
+  .lsvg {
+    color: green;
   }
 }
