@@ -22,7 +22,7 @@ const Navbar = () => {
             BLOG
           </Link>
         </li>
-        <li className="li">
+        {/* <li className="li">
           <Link
             href={
               "https://www.amazon.com/b?_encoding=UTF8&tag=fitnessdailyd-20&linkCode=ur2&linkId=bab8f75e6eab7519c6ef332fea278bc1&camp=1789&creative=9325&node=23675621011"
@@ -32,7 +32,7 @@ const Navbar = () => {
           >
             VITALS SANCTUARY
           </Link>
-        </li>
+        </li> */}
 
         <li className="li">
           <Link href={"/contact"} className="a">
