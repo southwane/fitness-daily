@@ -1,6 +1,7 @@
 import "./globals.css";
 import Navbar from "./components/Navbar";
 import page from "./page.module.css";
+import Link from "next/link";
 
 export const metadata = {
   title: "Fitness Daily",
